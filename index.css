@@ -1,0 +1,14 @@
+body {
+	font-family: sans-serif;
+}
+body * {
+	box-sizing: border-box;
+}
+ul li {
+	margin-bottom: 10px;
+}
+
+h1 {border-bottom-width:10px;
+	border-bottom-color: black;
+
+}
